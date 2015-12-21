@@ -1,2 +1,2 @@
-# intermediate-java
-CS0401 Projects
+# Intermediate Programming with Java
+CS 0401 Projects
